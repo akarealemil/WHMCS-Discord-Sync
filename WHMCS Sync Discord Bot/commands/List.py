@@ -3,7 +3,6 @@ from discord.ext import commands
 from util import config, whmcs, other
 from datetime import datetime
 
-
 # List all the products of a specified email
 # eg: -list test@gmail.com
 

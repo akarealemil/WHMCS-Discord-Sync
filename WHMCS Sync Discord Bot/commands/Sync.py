@@ -2,11 +2,9 @@ from discord.ext import commands
 
 from util import other
 
-
 # Manually syncs all members of the discord
 # If they're connected and have one or more active products, they receive the client role
 # Otherwise they lose it
-
 
 class Sync(commands.Cog):
     def __init__(self, bot):

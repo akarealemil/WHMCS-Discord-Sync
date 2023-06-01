@@ -3,7 +3,6 @@ from discord.ext import commands
 from util import config, whmcs, other, database
 from datetime import datetime
 
-
 # Show all the products of a linked user
 # eg: -show @emil
 
