@@ -34,12 +34,14 @@ show <@username>
   *This will list the services that the desired Discord Username has active.
 ```
 ```
-stop
-  *This simply stops the Discord bot from being able to function, this should only be used as a last resort.
-```
-```
 sync
   *This will force a manual sync of all clients from the Website <> Discord.
+```
+
+* Dev Commands
+```
+stop
+  *This simply stops the Discord bot from being able to function, this should only be used as a last resort.
 ```
 
 ## Help
