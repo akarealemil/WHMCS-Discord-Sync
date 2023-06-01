@@ -1,6 +1,3 @@
-# Functionality
-This will automatically add a role to people who sync their Discord with their WHMCS account.
-
 # A bridge between WHMCS and Discord.
 
 A bot which syncs WHMCS and Discord, allowing clients to link their Discord and whatnot. Code may be outdated and may not function as intended, please be warned.
