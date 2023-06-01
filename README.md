@@ -26,20 +26,20 @@ An in-depth paragraph about your project and overview of use.
 * Step-by-step bullets
 * Text in < > is required.
 ```
-**list <email>**
-This will list the services that the desired email has active.
+list <email>
+  *This will list the services that the desired email has active.
 ```
 ```
-**show <@username>**
-This will list the services that the desired Discord Username has active.
+show <@username>
+  *This will list the services that the desired Discord Username has active.
 ```
 ```
-**stop**
-This simply stops the Discord bot from being able to function, this should only be used as a last resort.
+stop
+  *This simply stops the Discord bot from being able to function, this should only be used as a last resort.
 ```
 ```
-**sync**
-This will force a manual sync of all clients from the Website <> Discord.
+sync
+  *This will force a manual sync of all clients from the Website <> Discord.
 ```
 
 ## Help
