@@ -2,8 +2,6 @@
 
 A bot which syncs WHMCS and Discord, allowing clients to link their Discord and whatnot. Code may be outdated and may not function as intended, please be warned.
 
-No support is provided - use at your own caution. Until I get the time to recode  this
-
 
 ## Description
 
@@ -47,11 +45,8 @@ This will force a manual sync of all clients from the Website <> Discord.
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
+No help is provided, you use this at your own discretion. 
+  
 ## Authors
 
 Emil Wojcik
